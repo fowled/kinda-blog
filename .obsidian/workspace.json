@@ -15,6 +15,18 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d6fb55273471a800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "how-to-crack-spotify-on-linux.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -139,6 +151,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ef4b76a888b673d4",
-  "lastOpenFiles": []
+  "active": "bfdf33605253a00c",
+  "lastOpenFiles": [
+    "how-to-crack-spotify-on-linux.md",
+    "README.md",
+    "Pasted image 20221024182839.png"
+  ]
 }
