@@ -6,4 +6,4 @@ Everything written here comes from my **Obsidian Vault** and is synced with this
 
 While you're here, why not read the very first article?
 
-1. [[how-to-crack-spotify-on-linux]]
+1. [How to crack Spotify on Linux](how-to-crack-spotify-on-linux.md)

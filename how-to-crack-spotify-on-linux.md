@@ -100,6 +100,8 @@ Categories=Audio;Music;Player;AudioVideo;
 StartupWMClass=spotify
 ```
 
+![preview](https://user-images.githubusercontent.com/37367577/197834698-a28b45fe-1937-4674-84aa-0bbca951a123.png)
+
 ## Final words
 These were the two best solutions I've found to block ads on Spotify for Linux. 
 
